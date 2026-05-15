@@ -1,0 +1,20 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "TravisAndJan_WeaponItem_BP_C TravisAndJan_WeaponItem_BP_C_2147478528",
+        "Properties",
+        "Children",
+        "Jan_WeaponAttachment_BP_C Jan_WeaponAttachment_BP_C_2147478496",
+        "Components",
+        "SkeletalMeshComponent ItemMesh",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent StaticMeshComponent_2147478485"
+    ],
+    "properties": [],
+    "type": "properties"
+}

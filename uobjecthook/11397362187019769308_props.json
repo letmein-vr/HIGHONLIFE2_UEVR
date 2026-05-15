@@ -1,0 +1,16 @@
+{
+    "hide": true,
+    "hide_legacy": true,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Children",
+        "BP_FlintTurtle_WeaponItem_C BP_FlintTurtle_WeaponItem_C_2147463928",
+        "Properties",
+        "ItemAttachment",
+        "Components",
+        "StaticMeshComponent velocity_sphere"
+    ],
+    "properties": [],
+    "type": "properties"
+}

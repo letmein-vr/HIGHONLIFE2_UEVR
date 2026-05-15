@@ -1,0 +1,1328 @@
+{
+    "uevr_attachment_base_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_id": "",
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_label": "",
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_picker": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_any_child": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_any_parent": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_delete_accessory_override": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_grip_animation": 1,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_is_melee": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_is_scoped": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_is_two_handed": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_brightness": 2.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_show_debug": false,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Actor_Right_BountyHunterSuit_SK_use_laser": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_id": "",
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_label": "",
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_picker": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_any_child": true,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_any_parent": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_grip_animation": 1,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_is_melee": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_is_scoped": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_is_two_handed": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_position": [
+        34.20000076293945,
+        -8.0,
+        -49.5
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_rotation": [
+        7.3460001945495605,
+        -95.08200073242188,
+        179.05599975585938
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_show_debug": false,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK_use_laser": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_id": "",
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_label": "",
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_picker": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_any_child": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_any_parent": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_grip_animation": 1,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_is_melee": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_is_scoped": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_is_two_handed": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_position": [
+        19.600000381469727,
+        -15.300000190734863,
+        -26.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_rotation": [
+        6.403357982635498,
+        -118.29299926757813,
+        3.080514430999756
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_show_debug": false,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK_use_laser": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_id": "",
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_label": "",
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_picker": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_any_child": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_any_parent": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_grip_animation": 1,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_is_melee": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_is_scoped": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_is_two_handed": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_position": [
+        -3.700000047683716,
+        -21.899999618530273,
+        -26.200000762939453
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_rotation": [
+        -3.7190001010894775,
+        -282.0379943847656,
+        -33.099998474121094
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_show_debug": false,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK_use_laser": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_id": "",
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_label": "",
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_picker": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_any_child": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_any_parent": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_grip_animation": 1,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_is_melee": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_is_scoped": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_is_two_handed": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_position": [
+        13.300000190734863,
+        -16.899999618530273,
+        -34.70000076293945
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_rotation": [
+        -3.094204657827504e-05,
+        -53.1609992980957,
+        2.0090195903321728e-05
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_show_debug": false,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK_use_laser": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_id": "",
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_label": "",
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_picker": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_any_child": true,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_any_parent": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_grip_animation": 1,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_is_melee": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_is_scoped": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_is_two_handed": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_position": [
+        -13.699999809265137,
+        -15.199999809265137,
+        -37.20000076293945
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_rotation": [
+        0.0,
+        -79.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_show_debug": false,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK_use_laser": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_end_time": 0.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_existing_guid": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_id": "",
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_label": "",
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_socket_name": "",
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_marker_picker": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_picker": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_accessory_start_time": 0.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_any_child": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_any_parent": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_delete_accessory_override": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_grip_animation": 1,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_is_melee": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_is_scoped": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_is_two_handed": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_position": [
+        19.600000381469727,
+        -28.5,
+        -49.79999923706055
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_rotation": [
+        -0.6100000143051147,
+        -90.39099884033203,
+        -0.15655238926410675
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_brightness": 2.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_max_fov": 20.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_min_fov": 2.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_show_debug": false,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_BP_Sheath_WeaponAttachment_C_Sheath_SK_use_laser": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_id": "",
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_label": "",
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_picker": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_any_child": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_any_parent": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_delete_accessory_override": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_grip_animation": 1,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_is_melee": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_is_scoped": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_is_two_handed": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_position": [
+        23.299999237060547,
+        -19.600000381469727,
+        -45.599998474121094
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_rotation": [
+        -0.1599999964237213,
+        -91.5999984741211,
+        5.551000118255615
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scale": [
+        1.0,
+        1.0099999904632568,
+        1.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_brightness": 2.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_show_debug": false,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Bowie_WeaponAttachment_BP_C_Bowie_SK_use_laser": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_id": "",
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_label": "",
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_picker": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_any_child": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_any_parent": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_delete_accessory_override": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_grip_animation": 1,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_is_melee": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_is_scoped": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_is_two_handed": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_position": [
+        44.5,
+        -37.400001525878906,
+        -57.400001525878906
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_rotation": [
+        21.913000106811523,
+        -104.91600036621094,
+        -21.88599967956543
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_brightness": 2.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_show_debug": false,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Creature_WeaponAttachment_BP_C_CreatureV2_SK_use_laser": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_id": "",
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_label": "",
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_picker": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_any_child": true,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_any_parent": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_delete_accessory_override": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_grip_animation": 1,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_is_melee": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_is_scoped": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_is_two_handed": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_position": [
+        18.799999237060547,
+        -26.399999618530273,
+        -36.599998474121094
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_rotation": [
+        -1.2050000429153442,
+        256.5840148925781,
+        -0.32499998807907104
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_brightness": 2.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_show_debug": false,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Gus_WeaponAttachment_BP_C_GusV2_SK_use_laser": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_id": "",
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_label": "",
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_picker": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_any_child": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_any_parent": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_delete_accessory_override": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_grip_animation": 1,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_is_melee": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_is_scoped": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_is_two_handed": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_position": [
+        -0.10000000149011612,
+        -0.800000011920929,
+        0.20000000298023224
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_brightness": 2.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_show_debug": false,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Jan_WeaponAttachment_BP_C_Jan_SK_use_laser": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_end_time": 0.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_existing_guid": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_id": "",
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_label": "",
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_socket_name": "",
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_marker_picker": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_picker": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_accessory_start_time": 0.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_any_child": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_any_parent": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_delete_accessory_override": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_grip_animation": 1,
+    "uevr_attachments_None_CannonWorm_1P_SK_is_melee": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_is_scoped": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_is_two_handed": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_position": [
+        0.0,
+        0.0,
+        -1000000.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_rotation": [
+        5.646393299102783,
+        -35.38237380981445,
+        -7.14436674118042
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_brightness": 2.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_max_fov": 20.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_min_fov": 2.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_show_debug": false,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_None_CannonWorm_1P_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_None_CannonWorm_1P_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_None_CannonWorm_1P_SK_use_laser": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_end_time": 0.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_existing_guid": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_id": "",
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_label": "",
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_socket_name": "",
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_marker_picker": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_picker": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_accessory_start_time": 0.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_any_child": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_any_parent": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_delete_accessory_override": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_grip_animation": 1,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_is_melee": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_is_scoped": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_is_two_handed": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_position": [
+        -0.20000000298023224,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scale": [
+        1.0099999904632568,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_brightness": 2.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_max_fov": 20.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_min_fov": 2.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_show_debug": false,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_SkeletalMeshActor_PrisonGun_SK_use_laser": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_id": "",
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_label": "",
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_picker": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_any_child": true,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_any_parent": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_delete_accessory_override": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_grip_animation": 1,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_is_melee": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_is_scoped": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_is_two_handed": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_position": [
+        16.100000381469727,
+        -16.100000381469727,
+        -41.20000076293945
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_rotation": [
+        0.6000000238418579,
+        -100.83699798583984,
+        -0.4000000059604645
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_brightness": 2.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_show_debug": false,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Sweezy_WeaponAttachment_BP_C_SweezyV2_SK_use_laser": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_end_time": 0.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_existing_guid": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_activation_distance": 0.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_activation_hand": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_attach_type": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_grip_animation": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_grip_priority": "1",
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_id": "",
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_label": "",
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_location": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_socket_list": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_socket_name": "",
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_test_left_hand": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_item_test_right_hand": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_marker_picker": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_picker": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_accessory_start_time": 0.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_any_child": true,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_any_parent": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_delete_accessory_override": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_grip_animation": 1,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_is_melee": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_is_scoped": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_is_two_handed": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_melee_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_position": [
+        26.399999618530273,
+        -29.0,
+        -52.70000076293945
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_rotation": [
+        -6.454999923706055,
+        -96.32599639892578,
+        15.90999984741211
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_brightness": 2.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_deactivate_distance": 50.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_hide_ocular_lens_on_disable": true,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_max_fov": 20.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_min_fov": 2.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_objective_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_objective_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_ocular_lens_location": [
+        0.0,
+        0.0,
+        20.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_ocular_lens_rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_ocular_lens_scale": 1.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_show_debug": false,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_zoom_exponential": 0.5,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_scope_zoom_speed": 1.0,
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_sights_position_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_attachments_Travis_WeaponAttachment_BP_C_Travis_SK_use_laser": false,
+    "use_uevr_attachments_strip_parent_name_numeric_suffix": false
+}

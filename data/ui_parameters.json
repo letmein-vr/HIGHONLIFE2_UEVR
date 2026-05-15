@@ -1,0 +1,184 @@
+{
+    "widgetlist": {
+        "WidgetBlueprintGeneratedClass /Game/Art/UI_Art/Final_UI/IntroSequences/Boss_Intro_Sequence_Text_Widget.Boss_Intro_Sequence_Text_Widget_C": {
+            "label": "Boss_Intro_Sequence_Text_Widget_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/Enemies/Characters/Bosses/SuperNipulon/Trips/NipulonStreamerOverlay_BP.NipulonStreamerOverlay_BP_C": {
+            "label": "NipulonStreamerOverlay_BP_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/MissionSpecific/MuppyDoo/ConCon/BP_UIWidget_ParkingCon_CaptureArea.BP_UIWidget_ParkingCon_CaptureArea_C": {
+            "label": "BP_UIWidget_ParkingCon_CaptureArea_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/Blackout_Widget.Blackout_Widget_C": {
+            "label": "Blackout_Widget_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/BlueWizardPaintings/Widget_WizardPainting.Widget_WizardPainting_C": {
+            "label": "Widget_WizardPainting_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/Clues/Widget_Clue_Prototype.Widget_Clue_Prototype_C": {
+            "label": "Widget_Clue_Prototype_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/Credits/BP_OverlayCredits_CenterScroll.BP_OverlayCredits_CenterScroll_C": {
+            "label": "BP_OverlayCredits_CenterScroll_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/FullscreenBlackout_BP.FullscreenBlackout_BP_C": {
+            "alignment": [
+                0.0,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "FullscreenBlackout_BP_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/HUD/HUD_FadeCanvas.HUD_FadeCanvas_C": {
+            "alignment": [
+                0.0,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "HUD_FadeCanvas_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/HUD/HUD_Master_Widget.HUD_Master_Widget_C": {
+            "alignment": [
+                0.009999999776482582,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "HUD_Master_Widget_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                0.9800000190734863,
+                0.9900000095367432
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/MainMenu/MainMenuHUDWidget.MainMenuHUDWidget_C": {
+            "alignment": [
+                0.0,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "MainMenuHUDWidget_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/MainMenu/MainMenu_BP.MainMenu_BP_C": {
+            "alignment": [
+                0.0,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "MainMenu_BP_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/ORConfirmationWidget_BP.ORConfirmationWidget_BP_C": {
+            "label": "ORConfirmationWidget_BP_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/ORSaveSlot_ConfirmationWidget_BP.ORSaveSlot_ConfirmationWidget_BP_C": {
+            "label": "ORSaveSlot_ConfirmationWidget_BP_C"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/PauseMenu/PauseMenu_V2_BP.PauseMenu_V2_BP_C": {
+            "alignment": [
+                0.0,
+                0.0
+            ],
+            "autoAdjustUIWhenActive": 1,
+            "autoAdjustUIWhenActivePriority": "0",
+            "decouplePitchWhenActive": 1,
+            "decouplePitchWhenActivePriority": "0",
+            "handsWhenActive": 1,
+            "handsWhenActivePriority": "0",
+            "inputWhenActive": 1,
+            "inputWhenActivePriority": "0",
+            "label": "PauseMenu_V2_BP_C",
+            "lockedUIWhenActive": 1,
+            "lockedUIWhenActivePriority": "0",
+            "remapWhenActive": 1,
+            "remapWhenActivePriority": "0",
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "screen2DWhenActive": 1,
+            "screen2DWhenActivePriority": "0"
+        },
+        "WidgetBlueprintGeneratedClass /Game/Blueprints/UI/Shops/Shops_StoreInfo_Widget.Shops_StoreInfo_Widget_C": {
+            "label": "Shops_StoreInfo_Widget_C"
+        }
+    }
+}

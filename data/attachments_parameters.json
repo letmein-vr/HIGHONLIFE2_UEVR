@@ -1,0 +1,442 @@
+{
+    "attachmentOffsets": [
+        {
+            "animation": "",
+            "any_child": true,
+            "any_parent": false,
+            "child": "SweezyV2_SK",
+            "id": "Sweezy_WeaponAttachment_BP_C_SweezyV2_SK",
+            "location": [
+                16.100000381469727,
+                -16.100000381469727,
+                -41.20000076293945
+            ],
+            "melee": false,
+            "parent": "Sweezy_WeaponAttachment_BP_C",
+            "rotation": [
+                0.6000000238418579,
+                -100.83699798583984,
+                -0.4000000059604645
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "animation": "",
+            "any_child": true,
+            "any_parent": false,
+            "child": "GusV2_SK",
+            "id": "Gus_WeaponAttachment_BP_C_GusV2_SK",
+            "location": [
+                18.799999237060547,
+                -26.399999618530273,
+                -36.599998474121094
+            ],
+            "melee": false,
+            "parent": "Gus_WeaponAttachment_BP_C",
+            "rotation": [
+                -1.2050000429153442,
+                256.5840148925781,
+                -0.32499998807907104
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "Lugblob_1P_SK",
+            "id": "BP_Lugblob_WeaponAttachment_C_Lugblob_1P_SK",
+            "location": [
+                13.300000190734863,
+                -16.899999618530273,
+                -34.70000076293945
+            ],
+            "melee": false,
+            "parent": "BP_Lugblob_WeaponAttachment_C",
+            "rotation": [
+                -3.094204657827504e-05,
+                -53.1609992980957,
+                2.0090195903321728e-05
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "Right_BountyHunterSuit_SK",
+            "id": "Actor_Right_BountyHunterSuit_SK",
+            "location": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "melee": false,
+            "parent": "Actor",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "animation": "",
+            "any_child": true,
+            "any_parent": false,
+            "child": "Travis_SK",
+            "id": "Travis_WeaponAttachment_BP_C_Travis_SK",
+            "location": [
+                26.399999618530273,
+                -29.0,
+                -52.70000076293945
+            ],
+            "melee": false,
+            "parent": "Travis_WeaponAttachment_BP_C",
+            "rotation": [
+                -6.454999923706055,
+                -96.32599639892578,
+                15.90999984741211
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "FlintTurtle_1P_SK",
+            "id": "BP_FlintTurtle_WeaponAttachment_C_FlintTurtle_1P_SK",
+            "location": [
+                19.600000381469727,
+                -15.300000190734863,
+                -26.0
+            ],
+            "melee": false,
+            "parent": "BP_FlintTurtle_WeaponAttachment_C",
+            "rotation": [
+                6.403357982635498,
+                -118.29299926757813,
+                3.080514430999756
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "Sheath_SK",
+            "id": "BP_Sheath_WeaponAttachment_C_Sheath_SK",
+            "location": [
+                19.600000381469727,
+                -28.5,
+                -49.79999923706055
+            ],
+            "melee": false,
+            "parent": "BP_Sheath_WeaponAttachment_C",
+            "rotation": [
+                -0.6100000143051147,
+                -90.39099884033203,
+                -0.15655238926410675
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "HammerBird_1P_SK",
+            "id": "BP_Hammerbird_WeaponAttachment_C_HammerBird_1P_SK",
+            "location": [
+                -3.700000047683716,
+                -21.899999618530273,
+                -26.200000762939453
+            ],
+            "melee": false,
+            "parent": "BP_Hammerbird_WeaponAttachment_C",
+            "rotation": [
+                -3.7190001010894775,
+                -282.0379943847656,
+                -33.099998474121094
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "CreatureV2_SK",
+            "id": "Creature_WeaponAttachment_BP_C_CreatureV2_SK",
+            "location": [
+                44.5,
+                -37.400001525878906,
+                -57.400001525878906
+            ],
+            "melee": false,
+            "parent": "Creature_WeaponAttachment_BP_C",
+            "rotation": [
+                21.913000106811523,
+                -104.91600036621094,
+                -21.88599967956543
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "Bowie_SK",
+            "id": "Bowie_WeaponAttachment_BP_C_Bowie_SK",
+            "location": [
+                23.299999237060547,
+                -19.600000381469727,
+                -45.599998474121094
+            ],
+            "melee": false,
+            "parent": "Bowie_WeaponAttachment_BP_C",
+            "rotation": [
+                -0.1599999964237213,
+                -91.5999984741211,
+                5.551000118255615
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "Jan_SK",
+            "id": "Jan_WeaponAttachment_BP_C_Jan_SK",
+            "location": [
+                -0.10000000149011612,
+                -0.800000011920929,
+                0.20000000298023224
+            ],
+            "melee": false,
+            "parent": "Jan_WeaponAttachment_BP_C",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "PrisonGun_SK",
+            "id": "SkeletalMeshActor_PrisonGun_SK",
+            "location": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "melee": false,
+            "parent": "SkeletalMeshActor",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": true,
+            "any_parent": false,
+            "child": "PrisonGun_SK",
+            "id": "BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK",
+            "location": [
+                -13.699999809265137,
+                -15.199999809265137,
+                -37.20000076293945
+            ],
+            "melee": false,
+            "parent": "BP_PrisonGun_WeaponAttachment_C",
+            "rotation": [
+                0.0,
+                -79.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "animation": "",
+            "any_child": true,
+            "any_parent": false,
+            "child": "PrisonGun_SK",
+            "id": "BP_PrisonGun_WeaponAttachment_C_PrisonGun_SK",
+            "location": [
+                -13.699999809265137,
+                -15.199999809265137,
+                -37.20000076293945
+            ],
+            "melee": false,
+            "parent": "BP_PrisonGun_WeaponAttachment_C",
+            "rotation": [
+                0.0,
+                -79.0,
+                0.0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": true,
+            "any_parent": false,
+            "child": "CannonWorm_1P_SK",
+            "id": "BP_CannonWorm_WeaponAttachment_C_CannonWorm_1P_SK",
+            "location": [
+                34.20000076293945,
+                -8.0,
+                -49.5
+            ],
+            "melee": false,
+            "parent": "BP_CannonWorm_WeaponAttachment_C",
+            "rotation": [
+                7.3460001945495605,
+                -95.08200073242188,
+                179.05599975585938
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        },
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "CannonWorm_1P_SK",
+            "id": "None_CannonWorm_1P_SK",
+            "location": [
+                0.0,
+                0.0,
+                -1000000.0
+            ],
+            "melee": false,
+            "parent": "None",
+            "rotation": [
+                5.646393299102783,
+                -35.38237380981445,
+                -7.14436674118042
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        }
+    ],
+    "baseOffsets": {
+        "location": [
+            0,
+            0,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            1,
+            1,
+            1
+        ]
+    },
+    "stripParentNameNumericSuffix": false
+}
