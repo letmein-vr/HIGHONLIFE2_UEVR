@@ -1,6 +1,4 @@
-# High On Life 2 UEVR
-
-A VR first-person mod for **UEVR** when playing *High On Life 2*. 
+![High On Life 2 VR](https://raw.githubusercontent.com/letmein-vr/HIGHONLIFE2_UEVR/main/screenshots/highonlife2vr.png)
 
 ---
 
