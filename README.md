@@ -29,7 +29,7 @@
 
 ---
 
-## ⚠️ Known Issues
+## ⚠️ Known Issues ⚠️
 * **Muppy Doo Fight:** May be able to play this 100% in VR with some difficulties!
 * **Right Controller UI Interactions:** Right controller used for UI interactions (i.e. RB/LB), but may be inverted sometimes.
 * **Right Controller Movement Direction:** Self explanatory.
