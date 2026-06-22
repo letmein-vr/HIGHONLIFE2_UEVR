@@ -16,6 +16,10 @@
 * **Cinematic Handling**: Automatic camera switching to preserve original cutscenes and in game cutscenes, with VR Hands being hidden and body mesh becoming visible as well as camera changes.
 * **Costumes/Suits**: VR hands rebuild with each costume or suit change.
 
+## Controls
+
+![High On Life 2 VR](https://raw.githubusercontent.com/letmein-vr/HIGHONLIFE2_UEVR/main/screenshots/IMG_4750.jpeg)
+
 ---
 
 ## 🛠 Instructions
